@@ -29,5 +29,14 @@ Classification using ResNet:
 
     Achieves train  accuracy: ~98.53% and test accuracy: ~89.21%
 
+Loss plot:
+    
+![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/v6a_BN_Aug_Resnet_StepLR0_01_ep150_loss.png)
+
+    
+Accuracy plot:
+    
+![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/v6a_BN_Aug_Resnet_StepLR0_01_ep150_accuracy.png)
+
 
 
