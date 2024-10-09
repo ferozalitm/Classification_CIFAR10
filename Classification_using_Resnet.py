@@ -1,4 +1,4 @@
-
+# Author: T M Feroz Ali
 # Classification using Resnet
 # Dataset: CIFAR10 
 # Using BatchNorm + Data Augmentation to improve test per by regularization (train 78, test 77)
@@ -130,13 +130,10 @@ class ResNet(nn.Module):
         out = out.view(out.size(0), -1)
         out = self.fc(out)
         return out
-    
-model = ResNet(ResidualBlock, [2, 2, 2]).to(device)
-
 
 # Build model.
-# model = ConvNet(ip_image_size).to(device)
-# breakpoint()
+model = ResNet(ResidualBlock, [2, 2, 2]).to(device)
+
 
 # Build optimizer.
 learning_rate = 0.01
@@ -174,9 +171,6 @@ for epoch in range(no_epochs):
 
         # Forward pass.
         pred = model(images)
-
-        # print(pred.shape)
-        # breakpoint()
 
         # Compute loss.
         loss = criterion(pred, labels)
