@@ -2,18 +2,25 @@ Classification using simple CNN:
 
     Classification_using_CNN.py
 
+    Dataset: CIFAR10 
+
     Achieves train  accuracy: ~82.75% and test accuracy: ~81.5%
+    
 
-    Loss plot:
+Loss plot:
     
-    ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Loss.png)
+![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Loss.png)
 
     
-    Accuracy plot:
+Accuracy plot:
     
-    ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Accuracy.png)
+![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Accuracy.png)
 
  
+
+
+
+
 
 
 Classification using ResNet:
@@ -23,4 +30,4 @@ Classification using ResNet:
     Achieves train  accuracy: ~98.53% and test accuracy: ~89.21%
 
 
-Dataset: CIFAR10 
+
