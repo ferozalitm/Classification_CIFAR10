@@ -4,6 +4,16 @@ Classification using simple CNN:
 
     Achieves train  accuracy: ~82.75% and test accuracy: ~81.5%
 
+    Loss plot:
+    
+    ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Loss.png)
+
+    Accuracy plot:
+    
+    ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Accuracy.png)
+
+ 
+
 
 Classification using ResNet:
 
