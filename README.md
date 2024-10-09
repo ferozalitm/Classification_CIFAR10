@@ -6,11 +6,12 @@ Classification using simple CNN:
 
     Loss plot:
     
-    ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/Loss.png)
+    ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Loss.png)
 
+    
     Accuracy plot:
     
-    ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/Accuracy.png)
+    ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Accuracy.png)
 
  
 
