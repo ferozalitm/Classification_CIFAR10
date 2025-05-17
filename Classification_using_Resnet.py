@@ -160,7 +160,6 @@ curr_lr = learning_rate
 for epoch in range(no_epochs):
 
     # Training
-    batch_idx = 0
     total_loss_train = 0
     total_correct_train = 0
 
