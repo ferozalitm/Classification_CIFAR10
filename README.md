@@ -36,12 +36,14 @@
 ### Loss plot:
     
 ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Loss.png)
+
 <img src="https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Loss?raw=true" alt="Accuracy Plot" width="500"/>
 
     
 ### Accuracy plot:
     
 ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Accuracy.png)
+
 <img src="https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Accuracy?raw=true" alt="Accuracy Plot" width="500"/>
 
  
