@@ -15,6 +15,9 @@
     
 ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/v6a_BN_Aug_Resnet_StepLR0_01_ep150_accuracy.png)
 
+<img src="https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/v6a_BN_Aug_Resnet_StepLR0_01_ep150_accuracy.png?raw=true" alt="Accuracy Plot" width="500"/>
+
+
 <br/> 
 <br/> 
 <br/> 
