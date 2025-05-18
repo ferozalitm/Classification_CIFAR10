@@ -10,7 +10,7 @@
     
 ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/v6a_BN_Aug_Resnet_StepLR0_01_ep150_loss.png)
 
-<img src="https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/v6a_BN_Aug_Resnet_StepLR0_01_ep150_loss?raw=true" alt="Accuracy Plot" width="500"/>
+<img src="https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/v6a_BN_Aug_Resnet_StepLR0_01_ep150_loss.png?raw=true" alt="Accuracy Plot" width="500"/>
     
 ### Accuracy plot:
     
@@ -37,14 +37,14 @@
     
 ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Loss.png)
 
-<img src="https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Loss?raw=true" alt="Accuracy Plot" width="500"/>
+<img src="https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Loss.png?raw=true" alt="Accuracy Plot" width="500"/>
 
     
 ### Accuracy plot:
     
 ![alt text](https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Accuracy.png)
 
-<img src="https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Accuracy?raw=true" alt="Accuracy Plot" width="500"/>
+<img src="https://github.com/ferozalitm/Classification_CIFAR10/blob/main/Results/Accuracy.png?raw=true" alt="Accuracy Plot" width="500"/>
 
  
 
