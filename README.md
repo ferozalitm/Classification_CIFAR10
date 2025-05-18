@@ -1,4 +1,4 @@
-# Classification using ResNet as well as plain CNN on CIFAR10 dataset:
+# Classification using ResNet and plain CNN on CIFAR10 dataset:
 
 ## A) Classification using ResNet:
 
