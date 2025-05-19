@@ -97,7 +97,7 @@ class ConvNet(nn.Module):
     def forward(self, x):
         x = self.layer1(x)
         x = self.layer2(x)
-        x = x.reshape(-1, self.fc_layer_size )
+        x = x.reshape(-1, self.fc_layer_size ) # Better way: x = x.view(x.size(0), -1)  
         x = self.fc(x)
         return x
 
