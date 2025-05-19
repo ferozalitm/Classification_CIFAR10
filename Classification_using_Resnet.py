@@ -127,7 +127,7 @@ class ResNet(nn.Module):
         out = self.layer2(out)
         out = self.layer3(out)
         out = self.avg_pool(out)
-        out = out.view(out.size(0), -1)
+        out = out.view(out.size(0), -1)   #  Resizes into (batch_size X all_features_concatenated).
         out = self.fc(out)
         return out
 
